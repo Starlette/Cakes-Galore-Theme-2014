@@ -1,0 +1,90 @@
+
+/* PINK #FFBFBF */
+
+.content .pink:afte, .btn.pink.none:hover, .btn.pink.none2:hover, .btn.pink.none3:hover, .list_items .featured img, .percentage_bars span, #tabs.pink a.tab, #tabs.pink div, .sortby a:hover, blockquote.border.pink, blockquote.testimonial.pink .person img, ol.style1.pink li, ol.style2.pink li, ol.style1.pink li, ol.style2.pink li, .logo_slider a:hover, blockquote.testimonial.pink div.text:after, .logo_slider a:hover, #toggle.pink li, .faq.pink .tab, #toggle.pink li a.tab, .content .pink:after, ol.style1.pink li, ol.style2.pink li, blockquote.testimonial.pink .person img, .content .pink:after { border-color:#70ADF1; }
+blockquote.testimonial.pink div.text:after { border-top-color:#70ADF1; }
+ol.style1.pink li, ol.style2.pink li { border-left:solid 2px #70ADF1; }
+#tabs.pink2 a.tab, #tabs.pink2 div { border:solid 1px #70ADF1; }
+#tabs.pink2 a.tab.active { border-bottom:solid 0px #fff; }
+.logo_slider a:hover { border:solid 1px #70ADF1; }
+
+.content .pink span, .testimonial_list p em, .testimonial_list p span:before, .testimonial_list p span:after, .btn.pink.invert, .btn.pink:hover, .btn.pink.none2:hover, .banner_slider_products h1, #tabs.arrow.pink a.tab.active:before, #toggle.arrow.pink a.tab.active:before, blockquote.pink:before, blockquote.pink:after, .txt_pink, ol.style1.pink li:before, ol.style2.pink li:before, ol.style1.pink li:before, ol.style2.pink li:before, #tabs.pink2 a.tab.active { color:#70ADF1; }
+.testimonial_nav a.btn { background-color:#444; }
+.menu_top li > a.current, .menu_top li > a.current:hover, .btn:hover, .btn:active, .product_nav a:hover, .btn.pink, .btn.black:hover, .btn.pink.invert:hover, .btn.black.invert, .btn.pink.none:hover, .btn.pink.none3:hover, .btn3.pink:after, .btn3.pink.both:before, .btn3.pink.combined:before, .menu_top ul li.megamenu li .btn:hover, #toggle.arrow.pink a.tab.active, #toggle.arrow.pink a.tab:hover, #toggle.pink li li a.tab.current, #toggle.multiple li li a.tab.current, .sortby a:hover, blockquote.testimonial.pink div.text, .dropcaps i.pink, ol.style4 li:before, .logo_slider_nav a:hover, .content_sider_nav a:hover, .content_slider_nav a:hover, .percentage_bars.pink span, .banner_slider_products .center a:hover, .products_banner a.btn:hover, #tabs.pink2 a.tab, #tabs.arrow.pink a.tab.active, #toggle.pink a.tab.active, #toggle.pink a.tab:hover, .product_navigation a:hover, .testimonial_nav a.btn:hover { background-color:#70ADF1; }
+
+.banner_slider_products .center span, .banner_slider_products .center a.view_article, .logo_slider a:after, .menu_top ul li.megamenu li a.image:after, .sub_products_list a:after, .list_items a.img:after { background-color:rgba(112,173,241,0.7); *background-color:#70ADF1; }
+
+@media all and (max-width: 610px) {
+	.header_top, .header_top article { background:#70ADF1 }
+}
+
+
+/* LIGHT BROWN #A39889 */
+
+.image_holder { border-color:#777; }
+.menu_top ul li.megamenu h1, .menu_top ul li.megamenu li a.image, .image_changer_small img { border-color:#eee; }
+
+.menu_top li > a:hover, .menu_top li:hover > a, .menu_top li li > a.current, .menu_top li li > a.current:hover { background-color:#eee; }
+.menu_top li li > a.current, .menu_top li li > a.current:hover { color:#000; }
+
+.menu_top ul li.megamenu li:hover > a.btn { background-color:#777; color:#fff; }
+.menu_top ul li.megamenu li a.btn:hover { background-color:#70ADF1; color:#222; }
+
+
+/* DARK BROWN #736559 */
+
+hr, .content .view_original, .menu_top ul li.image_changer li h1 a.btn { border-top-color:#444; }
+.header_top .cart li ul table, .content .view_original, .menu_top ul li.image_changer li h1 a.btn { border-bottom-color:#444; }
+.sub_products_list a:hover, .image_holder:hover { border-color:#444; }
+.footer_top, hr.seperator, .menu_top, .menu_top ul ul { background-color:#444; }
+
+
+/* BORDER RADIUS */
+
+.header_top .cart li span:after, .header_top .cart li span, .header_top .social_media li a:after, .header_top .social_media li a, .image_holder, .menu_top ul li.megamenu li a.image:after, .menu_top ul li.megamenu li a.image, .menu_top ul li.megamenu li a.image img, .back_to_top, .banner_slider_products .center span, .banner_slider_products img, .banner_slider_products .center a.view_article, .list_items img, .list_items a.img:after, blockquote.testimonial .person img, .sub_products_list a, .sub_products_list a:after, .sub_products_list img { -webkit-border-radius:50%; -moz-border-radius:50%; -ms-border-radius:50%; -o-border-radius:50%; border-radius:50%; }
+
+.menu_top li > a, .social_media_share a, .contact_section a, .btn, .banner_slider_products .center a { -webkit-border-radius:7px; -moz-border-radius:7px; -ms-border-radius:7px; -o-border-radius:7px; border-radius:7px; }
+
+.testimonial_nav a.btn, .product_nav a, .search_field input.btn, .shopping_cart tr .value { -webkit-border-radius:0; -moz-border-radius:0; -ms-border-radius:0; -o-border-radius:0; border-radius:0; }
+#tabs.arrow a.tab, #toggle.arrow a.tab { -webkit-border-radius:3px; -moz-border-radius:3px; -ms-border-radius:3px; -o-border-radius:3px; border-radius:3px; margin-right:2px; text-align:center; }
+
+@media all and (max-width: 610px) {
+	.products_banner .next, .products_banner .prev, .header_top .cart li span:after, .header_top .cart li span, .header_top .social_media li a:after, .header_top .social_media li a { -webkit-border-radius:0; -moz-border-radius:0; -ms-border-radius:0; -o-border-radius:0; border-radius:0; }
+}
+
+
+/* BASIC */
+
+a, .social_media li a:after, .header_top .cart li span:after, .list_items a.img:after, .list_items img, .sale_label, .list_items .image_holder, .menu_top ul li.megamenu li a.image:after, .menu_top ul li.megamenu li a.image, .back_to_top, .banner_slider_products .center a, input.btn, .product_navigation a, .more_products a:after, .more_products a, .sub_products_nav a, .sortby a, #toggle a.tab.arrow:after, .toggle_replies:after, .addReply:after, .content .toggle_comments:after, .content .toggle_comments, .header_top .cart li.currencies ul li a:before, .product_images li span, .btn2, .btn2:before, .btn2:after, .btn3:after, .btn3:before, .btn3, .logo_slider a:after, .logo_slider a, .col, .popupMain, .close, button { -webkit-transition:all 0.2s ease-in-out; -moz-transition:all 0.2s ease-in-out; -ms-transition:all 0.2s ease-in-out; -o-transition:all 0.2s ease-in-out; transition:all 0.2s ease-in-out; }
+
+a, button, .header_top .cart li span, .header_top .social_media li a { cursor:pointer; }
+.content_slider_nav a, .product_navigation a, .remove, .logo_slider_nav a, .sub_products_nav a, .replies_toggle a, .mobile_menu { text-decoration:none; }
+
+@media all and (max-width: 710px) {
+	.header_top .social_media li { display:none; }
+	.header_top .social_media li.show_on_mobile { display:block; }
+}
+@media all and (max-width: 610px) {
+	.menu_top li > a.current, .menu_top li li > a.current, .menu_top li li li > a.current,
+	.menu_top li > a.current:hover, .menu_top li li > a.current:hover, .menu_top li li li > a.current:hover,
+	.menu_top li a.tab:hover, .menu_top li li a.tab:hover, .menu_top li li li a.tab:hover { color:#000; }
+	.menu_top li li { margin-bottom:2px; }
+	.menu_top li ul { padding:15px 0; }
+	.header_top { border-bottom:solid 2px #fff; }
+	.header_top .social_media { float:right; margin-right:0; }
+	.header_top .cart { margin-left:0; }
+	.header_bottom { height:auto; text-align:center; }
+	.header_bottom .logo { margin-top:60px; }
+	.header_bottom .logo img, .header_bottom .logo, .search_website { float:none; }
+	.header_bottom .logo img { margin-bottom:-10px; }
+	.search_website { margin-top:20px; display:inline-block; margin-bottom:20px; }
+	.dropdown_item .icon:before, .social_media_share a:before { float:none; display:inline-block; }
+	.social_media_share a:last-child { margin-right:0; }
+}
+.menu_top li > a:hover, .menu_top li:hover > a, .menu_top li > a.current { color:#000; }
+.header_bottom {  background:#444; }
+.social_media_share, .search_field, .contact_section { background-color:#999; }
+body { background:#fff; }
+.content article { -webkit-box-shadow:0 0 0 #fff; -moz-box-shadow:0 0 0 #fff; -ms-box-shadow:0 0 0 #fff; -o-box-shadow:0 0 0 #fff; box-shadow:0 0 0 #fff; }
+.list_items .featured img { border:solid 3px #70ADF1; }
+.footer_middle { background:#444; }

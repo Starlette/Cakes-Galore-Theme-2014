@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "headings";
+    src: url('../fonts/font_headings-webfont.eot');
+    src: url('../fonts/font_headings-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/font_headings-webfont.woff') format('woff'),
+         url('../fonts/font_headings-webfont.ttf') format('truetype'),
+         url('../fonts/font_headings-webfont.svg#a_gentle_touchmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

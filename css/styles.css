@@ -1,0 +1,78 @@
+
+/* PINK #FFBFBF */
+
+.content .pink:afte, .btn.pink.none:hover, .btn.pink.none2:hover, .btn.pink.none3:hover, .list_items .featured img, .percentage_bars span, #tabs.pink a.tab, #tabs.pink div, .sortby a:hover, blockquote.border.pink, blockquote.testimonial.pink .person img, ol.style1.pink li, ol.style2.pink li, ol.style1.pink li, ol.style2.pink li, .logo_slider a:hover, blockquote.testimonial.pink div.text:after, .list_items .featured img { border-color:#FFBFBF; }
+
+.content .pink span, .testimonial_list p em, .testimonial_list p span:before, .testimonial_list p span:after, .btn.pink.invert, .btn.pink:hover, .btn.pink.none2:hover, .banner_slider_products h1, #tabs.arrow.pink a.tab.active:before, #toggle.arrow.pink a.tab.active:before, blockquote.pink:before, blockquote.pink:after, .txt_pink, ol.style1.pink li:before, ol.style2.pink li:before, ol.style1.pink li:before, ol.style2.pink li:before { color:#FFBFBF; }
+
+.menu_top li > a.current, .menu_top li > a.current:hover, .btn:hover, .btn:active, .product_nav a:hover, .btn.pink, .btn.black:hover, .btn.pink.invert:hover, .btn.black.invert, .btn.pink.none:hover, .btn.pink.none3:hover, .btn3.pink:after, .btn3.pink.both:before, .btn3.pink.combined:before, .menu_top ul li.megamenu li .btn:hover, #toggle.arrow.pink a.tab.active, #toggle.arrow.pink a.tab:hover, #toggle.pink li li a.tab.current, #toggle.multiple li li a.tab.current, .sortby a:hover, blockquote.testimonial.pink div.text, .dropcaps i.pink, ol.style4 li:before, .logo_slider_nav a:hover, .content_sider_nav a:hover, .content_slider_nav a:hover, .percentage_bars.pink span, .banner_slider_products .center a:hover, .products_banner a.btn:hover { background-color:#ffbfbf; }
+
+.banner_slider_products .center span, .banner_slider_products .center a.view_article, .logo_slider a:after, .menu_top ul li.megamenu li a.image:after, .sub_products_list a:after, .list_items a.img:after { background-color:rgba(255,191,191,0.6); *background-color:#FFBFBF; }
+
+@media all and (max-width: 610px) {
+	.header_top, .header_top article { background:#FFBFBF; }
+}
+
+
+/* LIGHT BROWN #A39889 */
+
+.content .brownlight:after, .btn.none:hover, .btn.none2:hover, .btn.none3:hover, .image_holder, .menu_top ul li.megamenu h1, .menu_top ul li.megamenu li a.image, .image_changer_small img, #tabs.brown_light2 a.tab, #tabs.brown_light2 div, #toggle.brown1 li, .faq.brown1 .tab, #toggle.brown1 li a.tab, .sub_products_list a, blockquote.border.brown, blockquote.testimonial.brown .person img, ol.style1.brown2 li, ol.style2.brown2 li { border-color:#A39889; }
+
+blockquote.testimonial.brown div.text:after { border-top-color:#A39889; }
+
+.btn, .btn.none:hover, .btn.none3:hover, .btn3.brown:after, .btn3.brown.both:before, .btn3.brown.combined:before, .product_navigation a:hover, .product_navigation a:hover, #tabs.brown_light a.tab, #tabs.brown_light div, #tabs.arrow.brown a.tab.active, #toggle.arrow.brown a.tab.active, #toggle.arrow.brown a.tab:hover, #toggle.brown li li a.tab.current, #toggle.brown1 a.tab.active, #toggle.brown1 a.tab:hover, blockquote.testimonial.brown div.text, .dropcaps i.brown, ol.style5 li:before, .percentage_bars.brown span, .menu_top li > a:hover, .menu_top li:hover > a { background-color:#A39889; }
+
+.content .brownlight span, .btn.none2:hover, #tabs.arrow.brown a.tab.active:before, #toggle.arrow.brown a.tab.active:before, blockquote.brown:before, blockquote.brown:after, .txt_brown2, ol.style1.brown2 li:before, ol.style2.brown2 li:before { color:#A39889; }
+
+
+/* DARK BROWN #736559 */
+
+hr, .content h1, .content .view_original, .menu_top ul li.image_changer li h1 a.btn, blockquote.testimonial.brown2 div.text:after { border-top-color:#736559; }
+.header_top .cart li ul table, .content h1, .content .view_original, .menu_top ul li.image_changer li h1 a.btn { border-bottom-color:#736559; }
+
+.content .browndark:after, .btn.dark_brown.none:hover, .btn.dark_brown.none2:hover, .btn.dark_brown.none3:hover, .list_items .image_holder:hover, #tabs.brown_dark a.tab, #tabs.brown_dark div, #tabs.brown_dark2 a.tab, #tabs.brown_dark2 div, #toggle.brown2 li, .faq.brown2 .tab, #toggle.brown2 li a.tab, .sub_products_list a:hover, blockquote.border.brown2, blockquote.testimonial.brown2 .person img, ol.style1.brown1 li, ol.style2.brown1 li { border-color:#736559; }
+
+.footer_top, hr.seperator, .menu_top, .menu_top ul ul, .btn.dark_brown, .btn.dark_brown.invert:hover, .btn.dark_brown.none:hover, .btn.dark_brown.none3:hover, #tabs.brown_dark a.tab, #tabs.brown_dark div, #tabs.arrow.brown2 a.tab.active, #toggle.arrow.brown2 a.tab.active, #toggle.arrow.brown2 a.tab:hover, #toggle.brown2 li li a.tab.current, #toggle.brown2 a.tab.active, #toggle.brown2 a.tab:hover, blockquote.testimonial.brown2 div.text, .dropcaps i.brown2, ol.style6 li:before, .percentage_bars.brown2 span { background-color:#736559; }
+
+.content .browndark span, .btn.dark_brown:hover, .btn.dark_brown.none2:hover, #tabs.brown_dark2 a.tab.active, #tabs.arrow.brown2 a.tab.active:befor, #toggle.arrow.brown2 a.tab.active:before, blockquote.brown2:before, blockquote.brown2:after, .txt_brown, ol.style1.brown1 li:before, ol.style2.brown1 li:before { color:#736559; }
+
+
+/* BORDER RADIUS */
+
+.header_top .cart li span:after, .header_top .cart li span, .header_top .social_media li a:after, .header_top .social_media li a, .image_holder, .menu_top ul li.megamenu li a.image:after, .menu_top ul li.megamenu li a.image, .menu_top ul li.megamenu li a.image img, .back_to_top, .banner_slider_products .center span, .banner_slider_products img, .banner_slider_products .center a.view_article, .list_items img, .list_items a.img:after, blockquote.testimonial .person img, .sub_products_list a, .sub_products_list a:after, .sub_products_list img { -webkit-border-radius:50%; -moz-border-radius:50%; -ms-border-radius:50%; -o-border-radius:50%; border-radius:50%; }
+
+.menu_top li > a, .social_media_share a, .contact_section a, .btn, .banner_slider_products .center a { -webkit-border-radius:7px; -moz-border-radius:7px; -ms-border-radius:7px; -o-border-radius:7px; border-radius:7px; }
+
+.testimonial_nav a.btn, .product_nav a, .search_field input.btn, .shopping_cart tr .value { -webkit-border-radius:0; -moz-border-radius:0; -ms-border-radius:0; -o-border-radius:0; border-radius:0; }
+#tabs.arrow a.tab, #toggle.arrow a.tab { -webkit-border-radius:3px; -moz-border-radius:3px; -ms-border-radius:3px; -o-border-radius:3px; border-radius:3px; margin-right:2px; text-align:center; }
+
+@media all and (max-width: 610px) {
+	.products_banner .next, .products_banner .prev, .header_top .cart li span:after, .header_top .cart li span, .header_top .social_media li a:after, .header_top .social_media li a { -webkit-border-radius:0; -moz-border-radius:0; -ms-border-radius:0; -o-border-radius:0; border-radius:0; }
+}
+
+
+/* BASIC */
+
+a, .social_media li a:after, .header_top .cart li span:after, .list_items a.img:after, .list_items img, .sale_label, .list_items .image_holder, .menu_top ul li.megamenu li a.image:after, .menu_top ul li.megamenu li a.image, .back_to_top, .banner_slider_products .center a, input.btn, .product_navigation a, .more_products a:after, .more_products a, .sub_products_nav a, .sortby a, #toggle a.tab.arrow:after, .toggle_replies:after, .addReply:after, .content .toggle_comments:after, .content .toggle_comments, .header_top .cart li.currencies ul li a:before, .product_images li span, .btn2, .btn2:before, .btn2:after, .btn3:after, .btn3:before, .btn3, .logo_slider a:after, .logo_slider a, .col, .popupMain, .close, button { -webkit-transition:all 0.2s ease-in-out; -moz-transition:all 0.2s ease-in-out; -ms-transition:all 0.2s ease-in-out; -o-transition:all 0.2s ease-in-out; transition:all 0.2s ease-in-out; }
+
+a, button { cursor:pointer; }
+.content_slider_nav a, .product_navigation a, .remove, .logo_slider_nav a, .sub_products_nav a, .replies_toggle a, .mobile_menu { text-decoration:none; }
+
+@media all and (max-width: 710px) {
+	.header_top .social_media li { display:none; }
+	.header_top .social_media li.show_on_mobile { display:block; }
+}
+@media all and (max-width: 610px) {
+	.menu_top li li { margin-bottom:2px; }
+	.menu_top li ul { padding:15px 0; }
+	.header_top { border-bottom:solid 2px #fff; }
+	.header_top .social_media { float:right; margin-right:0; }
+	.header_top .cart { margin-left:0; }
+	.header_bottom { height:auto; text-align:center; }
+	.header_bottom .logo { margin-top:60px; }
+	.header_bottom .logo img, .header_bottom .logo, .search_website { float:none; }
+	.header_bottom .logo img { margin-bottom:-10px; }
+	.search_website { margin-top:20px; display:inline-block; margin-bottom:20px; }
+	.dropdown_item .icon:before, .social_media_share a:before { float:none; display:inline-block; }
+	.social_media_share a:last-child { margin-right:0; }
+}
